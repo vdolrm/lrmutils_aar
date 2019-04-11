@@ -11,3 +11,5 @@ a base frame named lrmutils by lrm
 20180810 v1.0.8 修复http请求增加flag后无法下载文件的BUG
 
 20190117 v1.0.9 http请求增加user-agent
+
+20190411 v1.0.10 okhttp下载增加取消下载方法及获取文件大小的方法
