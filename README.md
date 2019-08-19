@@ -13,3 +13,5 @@ a base frame named lrmutils by lrm
 20190117 v1.0.9 http请求增加user-agent
 
 20190411 v1.0.10 okhttp下载增加取消下载方法及获取文件大小的方法
+
+20190819 v1.0.11 okhttp增加设置超时时间的方法
