@@ -17,3 +17,5 @@ a base frame named lrmutils by lrm
 20190819 v1.0.11 okhttp增加设置超时时间的方法
 
 20190904 v1.0.12 okhttp增加拦截器
+
+20201117 v1.1.0 androidx
